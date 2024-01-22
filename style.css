@@ -583,9 +583,11 @@ h2.action-head {
 		width: 100%;
 	}
 	#top img {
-		visibility: hidden;
-    		clear: both;
-    		display: none;
+		float:none;
+		clear: both;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	.featured-columns {
 		margin-bottom: 1.5em;
