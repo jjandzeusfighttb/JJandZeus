@@ -555,7 +555,7 @@ h2.action-head {
 		width: 100%;
 	}
 	#top img {
-		max-width: 150px;
+		  visibility: hidden;
 	}
 }
 
@@ -581,9 +581,6 @@ h2.action-head {
 	}
 	.join-left, .join-right {
 		width: 100%;
-	}
-	#top img {
-		  visibility: hidden;
 	}
 	.featured-columns {
 		margin-bottom: 1.5em;
