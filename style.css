@@ -321,6 +321,9 @@ a.toggle-button {
 	padding: 10px;
 	background-color: #DDDDDD;
 }
+.centered {
+	text-align: center;
+}
 .featured-columns {
 	margin-top: 2em;
 	padding: 1em 2em;
