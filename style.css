@@ -583,8 +583,7 @@ h2.action-head {
 		width: 100%;
 	}
 	#top img {
-		align-self: center;
-		max-width: 100px;
+		  visibility: hidden;
 	}
 	.featured-columns {
 		margin-bottom: 1.5em;
