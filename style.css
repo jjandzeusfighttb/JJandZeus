@@ -358,12 +358,12 @@ aside.wrapper-full {
 	gap: 2em;
 	flex-direction: row;
 }
-.container-action .date {
+.container-action .verb {
 	width: 40%;
 	font-size: .75em;
 	text-align: right;
 }
-.container-action .item {
+.container-action .detail {
 	width: 60%;
 }
 
