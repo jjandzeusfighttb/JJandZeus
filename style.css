@@ -349,6 +349,25 @@ aside.wrapper-full {
 	margin-bottom: 20px;
 }
 
+
+/* ACTION */
+.container-action .wrapper-full {
+	display: flex;
+	width: 80%;
+	max-width: 1200px;
+	gap: 2em;
+	flex-direction: row;
+}
+.container-action .date {
+	width: 40%;
+	font-size: .75em;
+	text-align: right;
+}
+.container-action .item {
+	width: 60%;
+}
+
+
 /* TIMELINE */
 .container-timeline .wrapper-full {
 	display: flex;
