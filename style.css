@@ -360,6 +360,7 @@ aside.wrapper-full {
 }
 .container-action .verb {
 	width: 30%;
+	text-align: center;
 }
 .container-action .detail {
 	width: 70%;
