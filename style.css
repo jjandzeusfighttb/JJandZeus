@@ -359,12 +359,12 @@ aside.wrapper-full {
 	flex-direction: row;
 }
 .container-action .verb {
-	width: 40%;
-	font-size: .75em;
+	width: 30%;
+	font-size: .70em;
 	text-align: right;
 }
 .container-action .detail {
-	width: 60%;
+	width: 70%;
 }
 
 
