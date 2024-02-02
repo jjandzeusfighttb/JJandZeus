@@ -366,7 +366,9 @@ aside.wrapper-full {
 .container-action .detail {
 	width: 70%;
 }
-
+.contain-action .verb p {
+	font-size: 1.4em;
+}
 
 /* TIMELINE */
 .container-timeline .wrapper-full {
