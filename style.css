@@ -375,10 +375,10 @@ aside.wrapper-full {
 	flex-direction: row;
 }
 .container-topaction .featured {
-	width: 50%;
+	width: 40%;
 }
 .container-topaction .smaller {
-	width: 25%;
+	width: 30%;
 }
 
 /* TIMELINE */
