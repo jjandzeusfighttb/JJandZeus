@@ -367,19 +367,7 @@ aside.wrapper-full {
 .container-action .detail {
 	width: 65%;
 }
-.container-topaction .wrapper-full {
-	display: flex;
-	width: 80%;
-	max-width: 1200px;
-	gap: 2em;
-	flex-direction: row;
-}
-.container-topaction .featured {
-	width: 45%;
-}
-.container-topaction .smaller {
-	width: 27.5%;
-}
+
 
 /* TIMELINE */
 .container-timeline .wrapper-full {
