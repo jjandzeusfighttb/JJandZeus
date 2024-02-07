@@ -349,7 +349,10 @@ aside.wrapper-full {
 	background-color: #DDDDDD;
 	margin-bottom: 20px;
 }
-
+.wrapper-columns .getinvolved {
+	width: 33.33%;
+	font-size: 1.25em;
+}
 
 /* ACTION */
 .container-action .wrapper-full {
