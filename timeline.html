@@ -140,28 +140,12 @@
 			</section>
 			<section class="container-compact">
 				<div class="wrapper-full wrapper-columns">
-					<div id = "option-1" class="post">
-						<p>
+					<div class="post">
+						<p id = "post-1">
 							"Lowering the price of the standard TB test alone is not enough, @DanaherCorp & @CepheidNews! Nerdfighteria is still waiting for you to lower the price of #XDRNext! #PeopleOverProfits"
 						</p>
 						<p>
-							<br>
-							<a href="#" class="button id="copy-opt-1" button-subtle">copy to clipboard</a>
-							<script>
-								document.getElementById("copy-opt-1").onclick = function () {
-									let text = "";
-									let children = document.getElementById("option-1").children;
-									for (let i = 0; i < children.length; i++) {
-										child = children[i];
-										if (child.nodeName != "BR") {
-											text += child.textContent.trim().replaceAll(/\s{2, }/g, "").replaceAll("\n", " ");
-										}
-										text += "\n"
-									}
-									navigator.clipboard.writeText(text.trim())
-									alert("Copied!")
-								}
-							</script>
+							<a href="#" onclick="CopyToClipboard('post-1');return false;" class="button button-subtle">copy to clipboard</a>
 							<a href="https://twitter.com/intent/tweet?text=Lowering%20the%20price%20of%20the%20standard%20TB%20test%20alone%20is%20not%20enough,%20%40DanaherCorp%20%26%20%40CepheidNews!%20Nerdfighteria%20is%20still%20waiting%20for%20you%20to%20lower%20the%20price%20of%20%23XDRNext!%20%23PeopleOverProfits" target="_blank" class="button button-subtle">click to tweet</a>
 						</p>
 					</div>
