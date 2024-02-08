@@ -581,7 +581,7 @@ h2.action-head {
 		max-width: 150px;
 	}
 	#video iframe {
-		max-width: 150px;
+		width: 80%;
 	}
 }
 
@@ -610,9 +610,6 @@ h2.action-head {
 	}
 	#top img {
 		align-self: center;
-		max-width: 100px;
-	}
-	#video iframe {
 		max-width: 100px;
 	}
 	.featured-columns {
