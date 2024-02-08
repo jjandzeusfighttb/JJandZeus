@@ -584,7 +584,7 @@ h2.action-head {
 	#top img {
 		max-width: 150px;
 	}
-	wrapper-columns .thirds {
+	.wrapper-columns .thirds {
 		width: 100%;
 	}
 	#video iframe {
