@@ -58,7 +58,7 @@ img {
 }
 #admire img {
 	margin: 30px;
-	width: 33.33%;
+	max-width: 33.33%;
 }
 
 /* ===============
