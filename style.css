@@ -352,6 +352,7 @@ aside.wrapper-full {
 .wrapper-columns .thirds {
 	width: 33.33%;
 	font-size: 1.25em;
+	align-items: center
 }
 
 /* ACTION */
