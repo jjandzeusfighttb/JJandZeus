@@ -58,7 +58,7 @@ img {
 }
 #admire img {
 	margin: 30px;
-	max-width: 100%;
+	max-width: 90%;
 }
 
 /* ===============
@@ -587,9 +587,6 @@ h2.action-head {
 	}
 	.wrapper-columns .thirds {
 		width: 100%;
-	}
-	#admire img {
-		width: 100%
 	}
 	#video iframe {
 		width: 100%;
