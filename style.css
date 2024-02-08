@@ -585,10 +585,10 @@ h2.action-head {
 		max-width: 150px;
 	}
 	.wrapper-columns .thirds {
-		width: 90%;
+		width: 100%;
 	}
 	#video iframe {
-		width: 90%;
+		width: 100%;
 	}
 }
 
